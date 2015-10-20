@@ -1,0 +1,24 @@
+{
+  "name": "2tejia",
+  "version": "1.0.0",
+  "description": "商场例子",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/RockWang/shop"
+  },
+  "keywords": [
+    "shop",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "rock",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

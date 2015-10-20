@@ -1,0 +1,31 @@
+{
+  "name": "2tejia",
+  "version": "1.0.0",
+  "authors": [
+    "RockWang <autumn1944@sohu.com>"
+  ],
+  "description": "商城例子",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "node",
+    "shop",
+    "net"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}
